@@ -26,4 +26,3 @@ kramdown:
   hard_wrap: false
 
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
-gems: [jekyll-paginate]
